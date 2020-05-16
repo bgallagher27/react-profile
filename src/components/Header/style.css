@@ -1,0 +1,19 @@
+.header {
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;
+    margin-bottom: 40px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.name {
+    background-color: #4aaaa5;
+    float: left;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.navigation {
+    float: right;
+    padding: 20px;
+}

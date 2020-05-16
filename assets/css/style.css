@@ -15,7 +15,7 @@ body {
     margin-bottom: 20px;
 }
 
-.header {
+/* .header {
     background-color: #ffffff;
     border-bottom: 2px solid #cccccc;
     margin-bottom: 40px;
@@ -28,7 +28,7 @@ body {
     color: white;
     padding: 20px;
     font-size: 25px;
-}
+} */
 
 input[type=text] {
     width: 100%;
@@ -49,10 +49,10 @@ img.profile-pic {
     width: 25%;
 }
 
-.navigation {
+/* .navigation {
     float: right;
     padding: 20px;
-}
+} */
 
 a:link {
     color: #777777;
