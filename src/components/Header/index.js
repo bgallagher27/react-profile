@@ -1,28 +1,31 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "./style.css";
 
 function Header(props) {
     return (
-        <header className="header">
-            <span className="name">
-                Brendan Gallagher
-            </span>
+        <div>
+            <header className="header">
+                <span className="name">
+                    Brendan Gallagher
+                </span>
 
-            {/* <span className="navigation">
-                <nav>
-                    <Link to="/">
-                        About Me
-                    </Link>
-                    <Link to="/portfolio">
-                        Portfolio
-                    </Link>
-                    <Link to="/contact">
-                        Contact
-                    </Link>
-                </nav>
-            </span> */}
-        </header>
+                {/* <span className="navigation">
+                    <nav>
+                        <Link to="/">
+                            About Me
+                        </Link>
+                        <Link to="/portfolio">
+                            Portfolio
+                        </Link>
+                        <Link to="/contact">
+                            Contact
+                        </Link>
+                    </nav>
+                </span> */}
+            </header>
+            { props.children }
+        </div>
     )
 };
 
