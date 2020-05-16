@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "./style.css";
 
 function Header(props) {
@@ -10,19 +10,19 @@ function Header(props) {
                     Brendan Gallagher
                 </span>
 
-                {/* <span className="navigation">
+                <span className="navigation">
                     <nav>
                         <Link to="/">
                             About Me
                         </Link>
-                        <Link to="/portfolio">
+                        {/* <Link to="/portfolio">
                             Portfolio
                         </Link>
                         <Link to="/contact">
                             Contact
-                        </Link>
+                        </Link> */}
                     </nav>
-                </span> */}
+                </span>
             </header>
             { props.children }
         </div>
