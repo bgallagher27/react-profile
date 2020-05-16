@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "../assets/images/project-2.JPG",
+        "title": "",
+        "description": "",
+        "deployedLink": "",
+        "gitLink": ""
+    },
+    {
+        "id": 2,
+        "image": "../assets/images/project-2.JPG",
+        "title": "",
+        "description": "",
+        "deployedLink": "",
+        "gitLink": ""
+    },
+    {
+        "id": 3,
+        "image": "../assets/images/project-2.JPG",
+        "title": "",
+        "description": "",
+        "deployedLink": "",
+        "gitLink": ""
+    },
+    {
+        "id": 4,
+        "image": "../assets/images/project-2.JPG",
+        "title": "",
+        "description": "",
+        "deployedLink": "",
+        "gitLink": ""
+    },
+    {
+        "id": 5,
+        "image": "../assets/images/project-2.JPG",
+        "title": "",
+        "description": "",
+        "deployedLink": "",
+        "gitLink": ""
+    },
+    {
+        "id": 6,
+        "image": "../assets/images/project-2.JPG",
+        "title": "",
+        "description": "",
+        "deployedLink": "",
+        "gitLink": ""
+    }
+]
