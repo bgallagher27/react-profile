@@ -5,7 +5,7 @@ import "./style.css";
 function Header(props) {
     return (
         <div>
-            <header className="header">
+            <Header className="header">
                 <span className="name">
                     Brendan Gallagher
                 </span>
@@ -23,7 +23,7 @@ function Header(props) {
                         </Link>
                     </nav>
                 </span> */}
-            </header>
+            </Header>
             { props.children }
         </div>
     )
