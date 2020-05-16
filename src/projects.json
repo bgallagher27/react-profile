@@ -2,49 +2,49 @@
     {
         "id": 1,
         "image": "../assets/images/project-2.JPG",
-        "title": "",
-        "description": "",
-        "deployedLink": "",
-        "gitLink": ""
+        "title": "Give Me A Break",
+        "description": "In these trying and frustrating times, everyone needs a break now and then. Give Me a Break gives users a chance to take a break from work, school, TV, Netflix, Hulu, Amazon Prime, Disney+, and other trying aspects of virtual life. Give Me a Break injects peacefulness and mindfulness into the user’s life by providing a sample of art, meditation, and relaxing music/sound for the user to sample. Links are provided for immediate consumption, along with favoriting functionality to store your favorite content.",
+        "deployedLink": "https://nameless-earth-27554.herokuapp.com/",
+        "gitLink": "https://github.com/nwsanfor24/project-2"
     },
     {
         "id": 2,
-        "image": "../assets/images/project-2.JPG",
-        "title": "",
-        "description": "",
-        "deployedLink": "",
-        "gitLink": ""
+        "image": "../assets/images/burger.JPG",
+        "title": "Burger",
+        "description": "Burger was inspired by the most universal and delicious simple meal in the known world! It allows the user to manage and express their culinary creativity by listing types of burgers they want to eat, and burgers they have already eaten. Some suggestions are given basedon the developer's personal favorites, but feel free to list and try your own!",
+        "deployedLink": "https://floating-lowlands-37506.herokuapp.com/",
+        "gitLink": "https://github.com/bgallagher27/burger"
     },
     {
         "id": 3,
-        "image": "../assets/images/project-2.JPG",
-        "title": "",
-        "description": "",
-        "deployedLink": "",
-        "gitLink": ""
+        "image": "../assets/images/note-taker.JPG",
+        "title": "Note Taker",
+        "description": "Note Taker allows the user to take organized notes with title and content fields, save those notes to review at another time, and delete notes that are no longer useful.",
+        "deployedLink": "https://damp-everglades-27667.herokuapp.com/",
+        "gitLink": "https://github.com/bgallagher27/note-taker"
     },
     {
         "id": 4,
-        "image": "../assets/images/project-2.JPG",
-        "title": "",
-        "description": "",
-        "deployedLink": "",
-        "gitLink": ""
+        "image": "../assets/images/project.JPG",
+        "title": "Super Eats",
+        "description": "Super Eats is a random meal generator to help with your meal planning and preparing. Super Eats also provides a random cocktail recipe to pair with your delicious meal, and allows for saving meal and cocktail recipes for later use.",
+        "deployedLink": "https://nwsanfor24.github.io/holiday-meal-planner/",
+        "gitLink": "https://github.com/nwsanfor24/holiday-meal-planner"
     },
     {
         "id": 5,
-        "image": "../assets/images/project-2.JPG",
-        "title": "",
-        "description": "",
-        "deployedLink": "",
-        "gitLink": ""
+        "image": "../assets/images/password-gen.JPG",
+        "title": "Password Generator",
+        "description": "This handy app will generate a password to help secure your online accounts. Specify the desired length at initialization and wait for the magic to happen!",
+        "deployedLink": "https://bgallagher27.github.io/password-generator/",
+        "gitLink": "https://github.com/bgallagher27/password-generator"
     },
     {
         "id": 6,
-        "image": "../assets/images/project-2.JPG",
-        "title": "",
-        "description": "",
-        "deployedLink": "",
-        "gitLink": ""
+        "image": "../assets/images/code-quiz.JPG",
+        "title": "Code Quiz",
+        "description": "Test your knowledge of coding with this simple, fun, and inventive code quiz! Starting the quiz also starts the timer, your score is saved as the time remaining once you'ev answered all questions correctly. Save your scores to the scoreboard and challenge your friends to see who knows their code!",
+        "deployedLink": "https://bgallagher27.github.io/code-quiz/",
+        "gitLink": "https://github.com/bgallagher27/code-quiz"
     }
 ]
