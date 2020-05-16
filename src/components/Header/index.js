@@ -9,7 +9,7 @@ function Header(props) {
                 Brendan Gallagher
             </span>
 
-            <span className="navigation">
+            {/* <span className="navigation">
                 <nav>
                     <Link to="/">
                         About Me
@@ -21,7 +21,7 @@ function Header(props) {
                         Contact
                     </Link>
                 </nav>
-            </span>
+            </span> */}
         </header>
     )
 };
