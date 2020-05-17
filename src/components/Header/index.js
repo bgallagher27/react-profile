@@ -12,13 +12,13 @@ function Header(props) {
 
                 <span className="navigation">
                     <nav>
-                        <Link to="/">
+                        <Link to="/" className="link">
                             About Me
                         </Link>
-                        {/* <Link to="/portfolio">
+                        <Link to="/portfolio" className="link">
                             Portfolio
                         </Link>
-                        <Link to="/contact">
+                        {/* <Link to="/contact" className="link">
                             Contact
                         </Link> */}
                     </nav>

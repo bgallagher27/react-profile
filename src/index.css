@@ -120,3 +120,8 @@ h5 {
   border-top: 8px solid #4aaaa5;
   text-align: center;
 } */
+
+.link {
+  margin-left: 10px;
+  margin-right: 10px;
+}
