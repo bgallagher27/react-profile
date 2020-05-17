@@ -4,7 +4,7 @@ import Wrapper from "../Wrapper";
 import ProjectCard from "../ProjectCard"
 import projects from "../../projects.json";
 
-class Home extends React.Component {
+class Portfolio extends React.Component {
 
     state = {
         projects
@@ -36,4 +36,4 @@ class Home extends React.Component {
     }
 };
 
-export default Home;
+export default Portfolio;

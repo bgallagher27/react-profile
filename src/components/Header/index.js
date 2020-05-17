@@ -18,9 +18,9 @@ function Header(props) {
                         <Link to="/portfolio" className="link">
                             Portfolio
                         </Link>
-                        {/* <Link to="/contact" className="link">
+                        <Link to="/contact" className="link">
                             Contact
-                        </Link> */}
+                        </Link>
                     </nav>
                 </span>
             </div>
