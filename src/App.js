@@ -14,9 +14,9 @@ function App() {
             <Route exact path="/react-profile/" component={ Home } />
             <Route exact path="/portfolio" component={ Portfolio } />
             <Route exact path="/contact" component={ Contact } />
-            {/* <Route exact path="*">
-                <Redirect to="/" />
-            </Route> */}
+            <Route exact path="*">
+                <Redirect to="/react-profile/" />
+            </Route>
         </Router>
       <Footer />
     </div>
