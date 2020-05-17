@@ -12,7 +12,7 @@ function Header(props) {
 
                 <span className="navigation">
                     <nav>
-                        <Link to="/" className="link">
+                        <Link to="/react-profile/" className="link">
                             About Me
                         </Link>
                         <Link to="/portfolio" className="link">
