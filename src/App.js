@@ -11,11 +11,11 @@ function App() {
     <div className="App">
         <Router>
           <Header />
-            <Route exact path="/react-profile/" component={ Home } />
+            <Route exact path="/" component={ Home } />
             <Route exact path="/portfolio" component={ Portfolio } />
             <Route exact path="/contact" component={ Contact } />
             <Route exact path="*">
-                <Redirect to="/react-profile/" />
+                <Redirect to="/" />
             </Route>
         </Router>
       <Footer />
