@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://bgallagher27.github.io/react-profile/",
-  "proxy": "http://localhost:3000/react-profile",
+  "proxy": "http://localhost:3000/react-profile/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
